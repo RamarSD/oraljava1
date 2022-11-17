@@ -5,6 +5,9 @@ public class Sample1 {
 		System.out.println("code1");
 
 	}
+	private void code2() {
+		System.out.println("copde2");
+	}
 
 
 }
